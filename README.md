@@ -10,15 +10,15 @@ So for example, I might guess that Oleksanders favourite sport is ballet, while 
 ## Requirements
 **One page of your partner with the following details:**
 - [ ] it's responsive
-- [ ] it has a title
-- [ ] it has a favicon
+- [x] it has a title
+- [x] it has a favicon
 - [ ] their favourite colour
 - [ ] their spiritual animal
 - [ ] their favourite sport
 - [ ] their favourite fictional character
 - [ ] their favourite celebrity
-- [ ] their picture (if you want to joke, be sure your partner is okay with it)
-- [ ] their name as a big header
+- [x] their picture (if you want to joke, be sure your partner is okay with it)
+- [x] their name as a big header
 - [ ] 3 words describing this person
 - [ ] a challenge box
   * make a seperate section where your partner can unleash their creativity
@@ -46,3 +46,12 @@ So for example, I might guess that Oleksanders favourite sport is ballet, while 
 
 ## Challenge Box Ideas
 * A box with a clicker on it, when the user clicks on that box 69 times, an audio file will play with the sound of a guy clicking his mouth and saying: "Nice."
+  * The clicker itself will also change to something funny.
+
+## Bootstrap-ped Up!
+Another day, another chance to tackle Bootstrap head on until I understand it completely! I'm using this project as a chance to really understand the grid system that Bootstrap uses, to make everything as responsive as possible. I'd also like to take a crack at the flexbox that CSS uses, but I'll leave that for Future-Besart to figure out!
+
+While creating the HTML, I'm trying to, quite literally, think inside the box. I need to place everything in an element, that's inside another element, **THAT'S** inside **ANOTHER** element. Caution! Working and thinking like this will result in your brain looking like it belongs in the popular game Minecraft.
+
+## The Guessing Game
+I'll be honest, I know very little to nothing about Oleksandr, and I'm terrible at reading people. So I'll just leave everything up to my imagination and that one psychology class I took once to guess the type of person Oleksandr is and where his interests lie.

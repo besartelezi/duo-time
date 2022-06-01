@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+}
+section{
+    background-color: lightskyblue;
+    margin: 25px;
+    padding: 25px;
+    align-content: center;
+    text-align: center;
+}
+.row{
+    justify-content: center;
+}
+.col-md-4{
+    padding: 25px;
+    border-radius: 25px;
+    background-color: white;
+    margin: 25px;
+}
