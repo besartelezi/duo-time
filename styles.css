@@ -31,6 +31,20 @@ section{
     padding: 25px;
     margin: 25px;
 }
-.Name{
-    font-size: 45px;
+
+/*Changing Font-Size of .Name according to screen size*/
+@media screen and (min-width: 480px) {
+    .Name {
+        font-size: 40px;
+    }
+}
+@media screen and (min-width: 481px) and (max-width: 600px) {
+    .Name {
+        font-size: 65px;
+    }
+}
+@media screen and (min-width: 601px) {
+    .Name {
+        font-size: 90px;
+    }
 }

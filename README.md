@@ -54,4 +54,6 @@ Another day, another chance to tackle Bootstrap head on until I understand it co
 While creating the HTML, I'm trying to, quite literally, think inside the box. I need to place everything in an element, that's inside another element, **THAT'S** inside **ANOTHER** element. Caution! Working and thinking like this will result in your brain looking like it belongs in the popular game Minecraft.
 
 ## The Guessing Game
-I'll be honest, I know very little to nothing about Oleksandr, and I'm terrible at reading people. So I'll just leave everything up to my imagination and that one psychology class I took once to guess the type of person Oleksandr is and where his interests lie.
+I'll be honest, I know very little to nothing about Oleksandr, and I'm terrible at reading people. So I'll just leave everything up to my imagination and that one psychology class I took once to guess the type of person Oleksandr is and where his interests lie. I will try to make his life way easier though, by adding classes and ID's to as many tags as possible! <br>
+
+
