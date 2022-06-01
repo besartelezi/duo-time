@@ -55,6 +55,9 @@
 .ChallengeDescription{
     width: 90%;
 }
+.ClickButton{
+    width: 80%;
+}
 #LinkButton{
     padding: 15px;
     background-color: ghostwhite;
@@ -62,6 +65,7 @@
     color: #084D5E;
     border-radius: 25px;
     border-bottom-style: solid;
+    width: 80%;
 }
 #LinkButton:hover{
     background-color: whitesmoke;
