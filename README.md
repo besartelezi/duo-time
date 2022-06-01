@@ -1,5 +1,5 @@
 # What Time? Duo Time!
-I have created a website about one of my fellow learners, Oleksandr. I have done all the HTML and CSS, and Oleksandr made all the JS on the page. [Click here to visit the page!](https://www.youtube.com/watch?v=1z-pVZiRjac&ab_channel=KingdomHeartsFan3211)
+I have created a website about one of my fellow learners, Oleksandr. I have done all the HTML and CSS, and Oleksandr made all the JS on the page. [Click here to visit the page!](https://besartelezi.github.io/duo-time/)
 
 ## The Mission Very-Much-Possible
 For this project, I had to be partnered up with someone, and then we had to make a page about each other, using only HTML and CSS. For the page, we have to a list of requirements of what we should write on the website about each other.
@@ -12,14 +12,14 @@ So for example, I might guess that Oleksanders favourite sport is ballet, while 
 - [ ] it's responsive
 - [x] it has a title
 - [x] it has a favicon
-- [ ] their favourite colour
-- [ ] their spiritual animal
+- [x] their favourite colour
+- [x] their spiritual animal
 - [ ] their favourite sport
 - [ ] their favourite fictional character
 - [ ] their favourite celebrity
 - [x] their picture (if you want to joke, be sure your partner is okay with it)
 - [x] their name as a big header
-- [ ] 3 words describing this person
+- [x] 3 words describing this person
 - [ ] a challenge box
   * make a seperate section where your partner can unleash their creativity
   * challenge them to do something special
