@@ -61,6 +61,8 @@ While creating the HTML, I'm trying to, quite literally, think inside the box. I
 I'll be honest, I know very little to nothing about Oleksandr, and I'm terrible at reading people. So I'll just leave everything up to my imagination and that one psychology class I took once to guess the type of person Oleksandr is and where his interests lie. I will try to make his life way easier though, by adding classes and ID's to as many tags as possible! <br>
 
 ## Farewell HTML/CSS, Hello Javascript City!
-Now that I have set up everything for Oleksandr, I will be leaving the rest of this site in his hands, while I go to *town* on his page with the Javascript. 
+Now that I have set up everything for Oleksandr, I will be leaving the rest of this site in his hands, while I go to *town* on his page with the Javascript. <br>
+
+
 
 
