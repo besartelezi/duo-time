@@ -9,18 +9,18 @@ So for example, I might guess that Oleksanders favourite sport is ballet, while 
 
 ## Requirements
 **One page of your partner with the following details:**
-- [ ] it's responsive
+- [x] it's responsive
 - [x] it has a title
 - [x] it has a favicon
 - [x] their favourite colour
 - [x] their spiritual animal
-- [ ] their favourite sport
-- [ ] their favourite fictional character
-- [ ] their favourite celebrity
+- [x] their favourite sport
+- [x] their favourite fictional character
+- [x] their favourite celebrity
 - [x] their picture (if you want to joke, be sure your partner is okay with it)
 - [x] their name as a big header
 - [x] 3 words describing this person
-- [ ] a challenge box
+- [x] a challenge box
   * make a seperate section where your partner can unleash their creativity
   * challenge them to do something special
   * you can leave it empty or provide some html / img / css to help them out
@@ -47,9 +47,13 @@ So for example, I might guess that Oleksanders favourite sport is ballet, while 
 ## Challenge Box Ideas
 * A box with a clicker on it, when the user clicks on that box 69 times, an audio file will play with the sound of a guy clicking his mouth and saying: "Nice."
   * The clicker itself will also change to something funny.
+  * Once the user has 10 clicks, it will change the page to dark-mode.
+    * I will create the CSS of the dark-mode myself, Oleksandr just has to do his magic on Javascript to make it work. 
+  * The Clicker is a picture of Chris Rock, and on click, it changes to a picture of Chris Rock where he is getting slapped.
+* A box where every 5 seconds, an iconic catchphrase/quote will appear in.
 
 ## Bootstrap-ped Up!
-Another day, another chance to tackle Bootstrap head on until I understand it completely! I'm using this project as a chance to really understand the grid system that Bootstrap uses, to make everything as responsive as possible. I'd also like to take a crack at the flexbox that CSS uses, but I'll leave that for Future-Besart to figure out!
+Another day, another chance to tackle Bootstrap head on until I understand it completely! I'm using this project as a chance to really understand the grid system that Bootstrap uses, to make everything as responsive as possible. I have also decided to use Media Query's for some texts, like the H1, so that it's responsive as well. 
 
 While creating the HTML, I'm trying to, quite literally, think inside the box. I need to place everything in an element, that's inside another element, **THAT'S** inside **ANOTHER** element. Caution! Working and thinking like this will result in your brain looking like it belongs in the popular game Minecraft.
 

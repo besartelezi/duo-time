@@ -1,22 +1,31 @@
-body{
-    background-color: red;
-    margin: 25px;
+.Body{
+    background-color: #D9F5FC;
+    color: black;
 }
-section{
+.BodyDarkMode{
+    background-color: black;
+    color: white;
+}
+.Lightmode{
     border-radius: 25px;
-    background-color: lightskyblue;
+    background-color: #7BDCF4;
     margin: 25px;
     padding: 25px;
     align-content: center;
     text-align: center;
 }
+.Darkmode{
+    border-radius: 25px;
+    background-color: #084D5E;
+    margin: 25px;
+    padding: 25px;
+    align-content: center;
+    text-align: center;
+}
+
 #ImageOleksandr{
     width: 45%;
     border-radius: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 25px;
 }
 .row{
     justify-content: center;
@@ -24,14 +33,40 @@ section{
 .col-md-4{
     padding: 25px;
     border-radius: 25px;
-    background-color: white;
     margin: 25px;
 }
-.col-3{
-    padding: 25px;
-    margin: 25px;
+.ThreeWords{
+    padding: 10px;
+    margin: 10px;
+    font-size: 40px;
 }
-
+.MoreFunFacts{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+.col-md-3{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.Head2{
+    margin-bottom: 50px;
+}
+.ChallengeDescription{
+    width: 90%;
+}
+#LinkButton{
+    padding: 15px;
+    background-color: ghostwhite;
+    border: #084D5E;
+    color: #084D5E;
+    border-radius: 25px;
+    border-bottom-style: solid;
+}
+#LinkButton:hover{
+    background-color: whitesmoke;
+    text-decoration: none;
+}
 /*Changing Font-Size of .Name according to screen size*/
 @media screen and (min-width: 480px) {
     .Name {
@@ -48,3 +83,4 @@ section{
         font-size: 90px;
     }
 }
+
