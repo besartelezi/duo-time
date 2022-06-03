@@ -11,11 +11,20 @@
 
 
 
+
  let click = 0;
  clickButton.addEventListener("click", function () {
      clickerHolder ();
      onClick();
  });
+
+
+
+// Change a link
+ document.getElementById("LinkButton").href = "https://besartelezi.github.io/duo-time/";
+
+
+
 
 
 // Sound
