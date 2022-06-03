@@ -1,9 +1,14 @@
  const textAnimal = document.getElementById("Animal");
  const textBodacious = document.getElementById("bodacious");
  const textCelebrity = document.getElementById("celebrity");
+ const numAge = document.getElementById("age");
+ const dalyTask = document.querySelector(".daily");
  const clickButton = document.querySelector(".ClickButton");
  const display = document.getElementById("SlapCounter");
- // console.log(clickButton);
+ const willImg = document.getElementById("will");
+ const drebinDiv = document.getElementById("removeDiv");
+
+
 
 
  let click = 0;
@@ -13,17 +18,36 @@
  });
 
 
+// Sound
+
+ clickButton.addEventListener("click", function () {
+     const audio = new Audio("./audio/nice.mp3");
+     if(click === 69) {
+         audio.play();
+     }else {
+         console.log("error");
+     }
+ })
 
 
 
+//Dark Mode
+clickButton.addEventListener("click",function () {
+   if(click === 10) {
+       document.body.classList.toggle("Darkmode");
+   }else {
+       console.log("error");
+   }
+
+})
 
 
+//Hover
 
-
-
-
-
-
+ willImg.addEventListener("mouseover", function (){
+     willImg.src = "./images/cameron.jpeg";
+     console.log(willImg);
+ });
 
 
 // Get Random Image
@@ -55,21 +79,35 @@ let imageArray = [("https://images.unsplash.com/photo-1637323988659-8e5cc44d41b0
 
 
 textCelebrity.addEventListener("mouseover", function () {
-    console.log(onmouseover);
-    textCelebrity.innerHTML = "Cameron Diaz"
+    // console.log(onmouseover);
+    textCelebrity.innerHTML = "Cameron Diaz";
     textCelebrity.style.border = "3px solid red";
-})
+    textCelebrity.style.fontSize = "40px";
+    textCelebrity.style.color = "blue";
+
+});
 
 
 
  textBodacious.addEventListener("mouseover", function (){
     textBodacious.innerHTML = "Loyal";
     textBodacious.style.backgroundColor = "red";
-})
+});
 
 
 textAnimal.addEventListener("mouseover", function (e) {
    textAnimal.innerHTML = "King penguin";
    textAnimal.style.color = "red";
-})
+});
 
+numAge.addEventListener("mouseover", function () {
+    numAge.innerHTML = "42";
+    numAge.style.fontSize = "40px";
+    numAge.style.backgroundColor = "red";
+});
+
+ dalyTask.addEventListener("mouseover", function (){
+    dalyTask.innerHTML = "NOW WAY!!!!!";
+     dalyTask.style.backgroundColor = "red";
+     dalyTask.style.fontSize = "40px";
+ })
